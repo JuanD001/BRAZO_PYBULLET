@@ -66,7 +66,7 @@ El repositorio se divide en dos partes:
 
 <!-- Reemplaza TU_ID_DE_VIDEO por el ID de tu video de YouTube, o sustituye este bloque por un GIF: ![Demo](docs/demo.gif) -->
 
-[![Demostración del proyecto](https://img.youtube.com/vi/TU_ID_DE_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_ID_DE_VIDEO)
+[![Demostración del proyecto](https://img.youtube.com/vi/TU_ID_DE_VIDEO/maxresdefault.jpg)](https://youtu.be/MO8dgpMPRhc)
 
 > 💡 Haz clic en la imagen para ver el sistema en funcionamiento.
 
